@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1955'
     url: http://www.gutenberg.org/2009/agents/1955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22277#Darry-the-Life-Saver--Or-The-Heroes-of-the-Coast
 gutenberg_issued: '2007-08-08'
 gutenberg_type: Text
 identifiers:
